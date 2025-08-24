@@ -65,6 +65,24 @@ Using **YOLOv8, YOLOv9, and YOLOv11**, the system classifies plant health condit
 - Mobile app + cloud support for farmers  
 
 --------------------------------------------------------------------------------------------------------------------------------------
+📚 References
+
+Thakur, P. S., Khanna, P., Sheorey, T., & Ojha, A. (2022). Explainable Vision Transformer Enabled CNN for Plant Disease Identification: PlantXViT. [arXiv
+]
+
+Gohil, M. K., et al. (2024). A Hybrid Technique for Plant Disease Identification and Localisation in Real-time. [arXiv
+]
+
+Sharma, A., Kumar, V., & Longchamps, L. (2024). Comparative performance of YOLOv8, YOLOv9, YOLOv10, YOLOv11 and Faster R-CNN models for detection of multiple weed species. Smart Agricultural Technology, 9. [DOI
+]
+
+Abid, M. S. Z., Jahan, B., Mamun, A. A., Hossen, M. J., & Mazumder, S. H. (2024). Bangladeshi crops leaf disease detection using YOLOv8. Heliyon, 10(18), e36694. [DOI
+]
+
+Wang, C. Y., Yeh, I. H., & Liao, H. Y. M. (2025). YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information. Lecture Notes in Computer Science, 15089. [DOI
+]
+
+--------------------------------------------------------------------------------------------------------------------------------------
 🤝 Contributors
 
   -👩‍💻 Kamal Sowgandhik Veeranki – Research & Development
