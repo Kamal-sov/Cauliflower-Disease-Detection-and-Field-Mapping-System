@@ -1,6 +1,6 @@
-train: D:/TK195770--AISHWARYA--Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/train/images
-val: D:/TK195770--AISHWARYA--Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/valid/images
-test: D:/TK195770--AISHWARYA--Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/test/images
+train: D:/Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/train/images
+val: D:/Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/valid/images
+test: D:/Cauliflower Disease Detection/CODE/BACKEND/Cauliflower-Diseases-Recognition-3/test/images
 
 nc: 4
 names: ['bacterial_spot_rot', 'black_rot', 'downy_mildew', 'no_disease']
@@ -10,4 +10,4 @@ roboflow:
   project: cauliflower-diseases-recognition
   version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/cauliflower-diseases/cauliflower-diseases-recognition/dataset/3
+  url: 
